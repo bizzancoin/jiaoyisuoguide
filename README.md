@@ -40,6 +40,16 @@
 USDT-TRC20打赏地址: TKGTx4pCKiKQbk8evXHTborfZn754TGViP
 ```
 
+# 图例
+
+![image-20250815112350697](images/image-20250815112350697.png)
+
+![image-20250815112447351](images/image-20250815112447351.png)
+
+
+
+
+
 ## 声明
 
 源码仅用于学习交流使用！
